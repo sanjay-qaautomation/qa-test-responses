@@ -12,7 +12,7 @@ The same 30 test cases re-expressed as Given/When/Then scenarios, grouped by Fea
 
 ## Task 2 — Slot "Cash Kiosk" (3 items)
 
-**Automation script(s)**
+**Automation script**
 Automated tests that play the game until a win occurs and check the win amount shown against the amount returned by the API.
 
 **Manual_Test_Cases_CashKiosk(SlotGame).xlsx**
